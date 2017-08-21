@@ -1,15 +1,15 @@
 module.exports = {
   // *Required* Prefix for commands.
-  PREFIX: '!',
+  PREFIX: '-',
   PORT: 5000,
 
   // *Required* Bot token. Can be found in your bots application page.
   // https://discordapp.com/developers/applications/me
-  TOKEN: '',
+  TOKEN: 'MzQ4NjIzNjY3Mzg4ODc0NzUz.DHy3tw.hugzkdzuBIG_DNH7DNo9XkLE6fw',
 
   // *Required* Bot client ID. Can be found in your bots application page.
   // https://discordapp.com/developers/applications/me
-  CLIENT_ID: '',
+  CLIENT_ID: '348623667388874753',
 
   // *Required* Redis URL. Can be left blank if Redis is opened locally.
   // Learn more here. http://redis.io/topics/quickstart
@@ -20,7 +20,7 @@ module.exports = {
 
   // Youtube API key, used for searching videos with `!youtube`.
   // Learn more here. https://developers.google.com/youtube/v3/getting-started
-  YOUTUBE_KEY: '',
+  YOUTUBE_KEY: 'AIzaSyBlNuDkACzKLJ455YjW8P2_OE_kVgCCF-w',
 
   // Imgflip username and password, used for creating memes with `!meme`.
   // Create an account here. https://imgflip.com
